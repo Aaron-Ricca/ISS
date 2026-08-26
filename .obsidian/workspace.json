@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IKTS Karlsruhe/Boarding-Pass-Basel-Weil-Am-Rhein-Karlsruhe-3364214029.pdf"
+                "file": "Logistics/International_Summer_School_Information_all_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Boarding-Pass-Basel-Weil-Am-Rhein-Karlsruhe-3364214029"
+              "title": "International_Summer_School_Information_all_2026"
             }
           },
           {
-            "id": "bc46d9adbfac8aad",
+            "id": "95b63f57c374b137",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +33,7 @@
               "title": "Meeting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fe8082e6f2d1a68",
@@ -201,12 +201,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc46d9adbfac8aad",
+  "active": "b5c7bf69a5cc78ed",
   "lastOpenFiles": [
-    "IKTS Karlsruhe/Boarding-Pass-Basel-Weil-Am-Rhein-Karlsruhe-3364214029.pdf",
-    "Meeting.md",
-    "IKTS Karlsruhe/Boarding-Pass-Karlsruhe-Basel-Weil-Am-Rhein-3364720310.pdf",
     "README.md",
-    "IKTS Karlsruhe"
+    "Meeting.md",
+    "Logistics/International_Summer_School_Information_all_2026.pdf",
+    "Practical_information",
+    "Posters",
+    "Participants/New presentation.pptx",
+    "Participants/Mihaela Dudita-Kauffeld.pptx",
+    "Participants/Michael Kauffeld.pptx",
+    "Participants/Liga Blumfelde.pptx",
+    "Participants",
+    "Lectures/Timetable online sessions.pdf",
+    "Lectures/Timetable on-Campus.pdf"
   ]
 }
