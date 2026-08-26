@@ -1,0 +1,3 @@
+- Dire che il giona ciceri non é piú a scuola
+- Chiedere per gli orari del posticipo del treno (12:30 PM - 02:21c)
+- 
