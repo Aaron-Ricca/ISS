@@ -11,26 +11,14 @@
             "id": "b5c7bf69a5cc78ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Logistics/International_Summer_School_Information_all_2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "International_Summer_School_Information_all_2026"
-            }
-          },
-          {
-            "id": "95b63f57c374b137",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting"
+              "title": "README"
             }
           }
         ]
@@ -95,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fe8082e6f2d1a68",
@@ -203,17 +190,18 @@
   },
   "active": "b5c7bf69a5cc78ed",
   "lastOpenFiles": [
-    "README.md",
-    "Meeting.md",
     "Logistics/International_Summer_School_Information_all_2026.pdf",
+    "Logistics/Boarding-Pass-Karlsruhe-Basel-Weil-Am-Rhein-3364720310.pdf",
+    "Logistics/Boarding-Pass-Basel-Weil-Am-Rhein-Karlsruhe-3364214029.pdf",
+    "README.md",
+    "Lectures/Timetable online sessions.pdf",
+    "Meeting.md",
     "Practical_information",
     "Posters",
     "Participants/New presentation.pptx",
     "Participants/Mihaela Dudita-Kauffeld.pptx",
     "Participants/Michael Kauffeld.pptx",
     "Participants/Liga Blumfelde.pptx",
-    "Participants",
-    "Lectures/Timetable online sessions.pdf",
-    "Lectures/Timetable on-Campus.pdf"
+    "Participants"
   ]
 }
