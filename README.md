@@ -15,6 +15,7 @@ This repository contains my synced Obsidian notes for the upcoming international
 - [TimeTable onsite](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_FK-MMT/Aktuelles/Timetable_on-Campus.pdf)
 - [Share folder](https://drive.switch.ch/index.php/s/bo6tir8KIoWhDfH)(Where all files are stored)
 - [Campus Map](https://www.kit.edu/campusplan/)
+- [Fireflies ai](https://app.fireflies.ai/view/01M16Y6SN3YN01NBSRX7VDZF72)(Note taking ai for meetings)
 ## Vault Organization
 
 The markdown files are structured logically to separate administrative details from factual lecture content.
